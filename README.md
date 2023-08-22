@@ -7,6 +7,6 @@ smurf, ICMP flooding 공격 툴(network class project)
 
 # Images
 ![대체 텍스트](./how-to-use/images/smurf.png)
-./how-to-use/images/smurf_result.png
-./how-to-use/images/icmp.png
-./how-to-use/images/icmp_result.png
+![대체 텍스트](./how-to-use/images/smurf_result.png)
+![대체 텍스트](./how-to-use/images/icmp.png)
+![대체 텍스트](./how-to-use/images/icmp_result.png)
