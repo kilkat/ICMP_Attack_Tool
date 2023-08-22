@@ -1,4 +1,4 @@
-# Network_prokect
+# ICMP_Attack_tool
 smurf, ICMP flooding 공격 툴(network class project)
 
 # How to use
