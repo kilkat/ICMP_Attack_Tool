@@ -6,7 +6,7 @@ smurf, ICMP flooding 공격 툴(network class project)
 2. 입력값에 필요한 입력값들을 입력후 attack 버튼을 누름.
 
 # Images
-(./how-to-use/images/smurf.png)
+![대체 텍스트](./how-to-use/images/smurf.png)
 ./how-to-use/images/smurf_result.png
 ./how-to-use/images/icmp.png
 ./how-to-use/images/icmp_result.png
